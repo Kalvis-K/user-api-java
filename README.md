@@ -17,11 +17,6 @@ cd user-api-java
 
 ### 2. Build and Run the API
 
-Using Maven:
-```
-./mvnw spring-boot:run
-```
-
 Using Gradle:
 ```
 ./gradlew bootRun
